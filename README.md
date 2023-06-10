@@ -2,10 +2,10 @@
 Creating a Kafka producer.py, consumer.py &amp; PgAdmin SQL DB
 
 # Required installations if not existing on the same environment:
-pip install kafka-python
-conda install -c conda-forge kafka-python 
-conda install -c anaconda sqlalchemy
-conda install -c anaconda psycopg2
+- pip install kafka-python
+- conda install -c conda-forge kafka-python 
+- conda install -c anaconda sqlalchemy
+- conda install -c anaconda psycopg2
 
 # What the project about:
 - Created Upstash account
