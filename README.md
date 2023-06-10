@@ -19,7 +19,7 @@ conda install -c anaconda psycopg2
 ![kafkaProducer_VS](https://github.com/hanydief/Kafka_Producer_Consumer_to_SQL_Project/blob/main/Outputs/kafkaProducer_VS.png)
 
 - consumer.py Python base code 
-- 
+
 ![KafkaConsumer_upstash](https://github.com/hanydief/Kafka_Producer_Consumer_to_SQL_Project/blob/main/Outputs/KafkaConsumer_upstash.png)
 
 - On VS created a consumer.py to fitch the producer.py random messages from Kafka every 2 seconds
